@@ -91,9 +91,9 @@ nav ul li a:hover {
     }
     #home h1{
         font-size: 12px;
-        text-align:center;
         margin-left: 20%;
-        position: absolute;
+        
+        
     }
     #home .readmore{
         margin-top: 400px;
@@ -187,7 +187,14 @@ nav ul li a:hover {
         font-size: 15px;
         margin-top: 150px;
     }
+    .contact-form input[type="text"]{
+        width: 100%;
 }
+    .contact-form input[type="email"]{
+        width: 100%;
+    }
+}
+
 #projects {
     background-color: #fff;
     padding: 20px;
@@ -290,6 +297,7 @@ footer {
     font-size: 20px;
     margin-top: 500px;
 }
+
 
 
 
